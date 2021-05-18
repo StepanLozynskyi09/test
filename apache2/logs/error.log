@@ -1,0 +1,17 @@
+[Tue May 18 19:33:25.530372 2021] [ssl:warn] [pid 5448:tid 668] AH01909: localhost:444:0 server certificate does NOT include an ID which matches the server name
+[Tue May 18 19:33:25.550513 2021] [ssl:warn] [pid 5448:tid 668] AH01909: localhost:444:0 server certificate does NOT include an ID which matches the server name
+[Tue May 18 19:33:25.585454 2021] [mpm_winnt:notice] [pid 5448:tid 668] AH00455: Apache/2.4.47 (Win64) OpenSSL/1.1.1k PHP/7.4.18 configured -- resuming normal operations
+[Tue May 18 19:33:25.586417 2021] [mpm_winnt:notice] [pid 5448:tid 668] AH00456: Apache Lounge VC15 Server built: Apr 27 2021 10:59:41
+[Tue May 18 19:33:25.586417 2021] [core:notice] [pid 5448:tid 668] AH00094: Command line: 'D:\\programing\\tools\\project\\apache2\\bin\\httpd.exe -d D:/programing/tools/project/apache2 -f D:\\programing\\tools\\project\\apache2\\conf\\httpd.conf'
+[Tue May 18 19:33:25.587415 2021] [mpm_winnt:notice] [pid 5448:tid 668] AH00418: Parent: Created child process 8556
+[Tue May 18 19:33:25.811868 2021] [ssl:warn] [pid 8556:tid 568] AH01909: localhost:444:0 server certificate does NOT include an ID which matches the server name
+[Tue May 18 19:33:25.829489 2021] [ssl:warn] [pid 8556:tid 568] AH01909: localhost:444:0 server certificate does NOT include an ID which matches the server name
+[Tue May 18 19:33:25.844521 2021] [mpm_winnt:notice] [pid 8556:tid 568] AH00354: Child: Starting 64 worker threads.
+[Tue May 18 19:33:32.454093 2021] [mpm_winnt:notice] [pid 5448:tid 668] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue May 18 19:33:34.460868 2021] [mpm_winnt:notice] [pid 8556:tid 568] AH00364: Child: All worker threads have exited.
+[Tue May 18 19:33:34.493382 2021] [mpm_winnt:notice] [pid 5448:tid 668] AH00430: Parent: Child process 8556 exited successfully.
+[Tue May 18 19:33:36.248227 2021] [ssl:warn] [pid 14428:tid 644] AH01909: localhost:444:0 server certificate does NOT include an ID which matches the server name
+[Tue May 18 19:33:36.269457 2021] [ssl:warn] [pid 14428:tid 644] AH01909: localhost:444:0 server certificate does NOT include an ID which matches the server name
+[Tue May 18 19:34:19.233707 2021] [ssl:warn] [pid 17804:tid 656] AH01909: localhost:444:0 server certificate does NOT include an ID which matches the server name
+[Tue May 18 19:34:19.254733 2021] [core:warn] [pid 17804:tid 656] AH00098: pid file D:/programing/tools/project/apache2/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue May 18 19:34:19.256727 2021] [ssl:warn] [pid 17804:tid 656] AH01909: localhost:444:0 server certificate does NOT include an ID which matches the server name
